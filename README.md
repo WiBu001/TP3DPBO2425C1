@@ -66,10 +66,14 @@ NOTE : Tema ini saya ambil dengan persetujuan asprak yang bersangkutan.
 - **PoliceStation** → menyimpan banyak **Police**  
 - **Undercover** → menyimpan banyak **Farmer** sebagai target 
 
+---
+
 ## 🔹 4. Hierarchical Inheritance
 
 - **Person** → diwariskan ke **Farmer**, **Seller**, **Buyer**, dan **Police**  
 - **Market** → diwarisknn ke **BlackMarket** dan **LegalMarket**  
+
+---
 
 ## 🔹 5. Multiple Inheritance
 
@@ -77,11 +81,15 @@ NOTE : Tema ini saya ambil dengan persetujuan asprak yang bersangkutan.
   - mewarisi dari **Police**  
   - mewarisi dari **Buyer**  
 
+---
+
 ## 🔹 6. Hybrid Inheritance
 
   - **Person** → diwarisi oleh **Police** dan **Buyer** (hierarchical)  
 - **Undercover** → mewarisi dari **Police** dan **Buyer** (multiple)  
 - Maka, terbentuk **Hybrid Inheritance**  
+
+---
 
 # PENJELASAN ATRIBUT DAN METHOD CLASS
 ###  1. **Class `Person`**  
